@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Authantication\\AuthApp\\AuthApp.csproj",
+      "projectUniqueName": "D:\\Auth\\AuthApp.csproj",
       "projectName": "AuthApp",
-      "projectPath": "D:\\Authantication\\AuthApp\\AuthApp.csproj",
+      "projectPath": "D:\\Auth\\AuthApp.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\Authantication\\AuthApp\\obj\\",
+      "outputPath": "D:\\Auth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
